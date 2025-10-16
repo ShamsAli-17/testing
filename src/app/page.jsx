@@ -7,7 +7,7 @@ export default function Home() {
       <Navbar/>
 
       <h1>
-        this is my home page
+        this is my shams page
       </h1>
     </div>
 
